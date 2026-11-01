@@ -47,7 +47,7 @@ def main() -> None:
 
     # Output personalized message with user's name and birth year.
     # output formatted results.
-    print(f"Hello, {input_name}! You were born in {birth_year}.")
+    print(f"Hello {input_name}! You were born in {birth_year}.")
 
 
 # === Main Guard ===
