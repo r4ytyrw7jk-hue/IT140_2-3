@@ -14,7 +14,7 @@
 
 ## Feature 3 – Autocorrection and Code Suggestion (IntelliSense)
 
-> The autocorrection and code suggestion features, often referred to as IntelliSense, acted as an interactive safety net that enhanced both my productivity and code organization. As I typed, the IDE dynamically generated context-aware dropdown menus suggesting valid method names, variables, and parameters, which drastically reduced syntax typos and saved me from constantly looking up documentation. For example, when I needed to utilize a built-in string manipulation method, I simply typed a dot after the string variable, and the IDE instantly displayed a list of available methods alongside short descriptions of their arguments. This not only ensured I used the correct naming conventions to keep the code readable, but it also reinforced best practices by encouraging me to use standard library functions efficiently without breaking my creative momentum.TODO: Replace with your Feature 3 paragraph here.
+> The autocorrection and code suggestion features, often referred to as IntelliSense, acted as an interactive safety net that enhanced both my productivity and code organization. As I typed, the IDE dynamically generated context-aware dropdown menus suggesting valid method names, variables, and parameters, which drastically reduced syntax typos and saved me from constantly looking up documentation. For example, when I needed to utilize a built-in string manipulation method, I simply typed a dot after the string variable, and the IDE instantly displayed a list of available methods alongside short descriptions of their arguments. This not only ensured I used the correct naming conventions to keep the code readable, but it also reinforced best practices by encouraging me to use standard library functions efficiently without breaking my creative momentum.
 
 ## Conclusion
 
@@ -33,3 +33,5 @@ Python Software Foundation. (n.d.).  *The Python Tutorial* . Python 3.15.2 Docum
 W3Schools. (n.d.).  *Python Tutorial* . Retrieved from [w3schools.com](http://w3schools.com/), [https://www.w3schools.com/python/default.asp](https://www.w3schools.com/python/default.asp)
 
 zyBooks. (n.d.).  *Introduction to programming with Python* . Retrieved from [zybooks.com](http://zybooks.com/)
+
+**AI Usage Acknowledgment:** I acknowledge the use of generative AI to support my work on this assignment.
